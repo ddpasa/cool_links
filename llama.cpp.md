@@ -14,5 +14,6 @@ Joy Caption is a great VLM for captioning images for image2text model training (
 - https://huggingface.co/concedo/llama-joycaption-beta-one-hf-llava-mmproj-gguf
 
 Other VLMs that I have tested with llama.cpp are:
+- JoyCaption Beta 1: https://huggingface.co/concedo/llama-joycaption-beta-one-hf-llava-mmproj-gguf
 - Holo1 3b: https://huggingface.co/mradermacher/Holo1-3B-GGUF/
 - Holo1 7b: https://huggingface.co/mradermacher/Holo1-7B-GGUF
