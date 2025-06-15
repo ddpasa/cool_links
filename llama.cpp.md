@@ -6,6 +6,10 @@ These users on Huggingface are great sources for llama.cpp compatible GGUFs:
 - https://huggingface.co/bartowski
 - https://huggingface.co/unsloth (unsloth quants are usually better than the 'official' quants from LM devs)
 
+All GGUFs can be found here: https://huggingface.co/models?sort=trending&search=gguf
+
+VLM (image-text-2-text) GGUFs can be found here: https://huggingface.co/models?pipeline_tag=image-text-to-text&sort=trending&search=gguf
+
 Joy Caption is a great VLM for captioning images for image2text model training (such as Stable Diffusion or Flux)
 - https://huggingface.co/concedo/llama-joycaption-beta-one-hf-llava-mmproj-gguf
 
